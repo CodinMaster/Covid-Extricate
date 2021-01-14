@@ -37,11 +37,11 @@ This project aims to ease the day-to-day life of people, doctors, and institutio
 ![](GithubImages/3.png)
 
 
-* Get timeline of a particular country tot observe the spread rate.
+* Get timeline of a particular country to observe the spread rate.
 
 ![](GithubImages/2.png)
 
 
-* Need of money due to the pandamic? Create a donation camp describing your need and providing links to required  documents to proov the docs legit.
+* In need of money due to the pandemic? Create a donation camp describing your need and provide links to the required  documents to prove that your claim is  legit.
 
 ![](GithubImages/1.png)
